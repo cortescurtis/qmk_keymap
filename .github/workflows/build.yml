@@ -12,6 +12,8 @@ jobs:
         file:
         - lily58.json
         - cantor.json
+        - sweep.json
+        - corne.json
 # End of json file list
 
     steps:
