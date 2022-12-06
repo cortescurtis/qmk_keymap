@@ -1,5 +1,6 @@
 SRC += source.c
 VIA_ENABLE = yes
-VIAL_ENABLE = yes
 LTO_ENABLE = yes
 QMK_SETTINGS = yes
+OLED_ENABLE = yes
+POINTING_DEVICE_ENABLE = yes
